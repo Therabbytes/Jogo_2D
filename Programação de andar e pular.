@@ -1,0 +1,2 @@
+17/09 - Hoje nós vimos como funciona a programação do andar e pular dentro da unity, vimos como funciona a movimentação de forma horizontal com o comando "Get.axis("Horizontal").
+Ja na mecanica do pulo, adicionamos o valor do pulo a tecla espaço, adicionamos força ao pulo.
